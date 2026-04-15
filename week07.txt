@@ -5,5 +5,7 @@ fork 및 pull request
 amend 옵션
 2가지 conflicts 상황 해결
 
+중간고사 시간 안내
+
 git commit -m "Cloud..."
 git commit --amend -m "클라우드서비스..."
